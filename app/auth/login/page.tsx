@@ -118,10 +118,10 @@ export default function LoginPage() {
               </div>
 
               <div className="mt-6 text-center">
-                <p className="text-sm text-gray-400 mb-2">Demo Accounts:</p>
+                <p className="text-sm text-gray-400 mb-2"></p>
                 <div className="text-xs text-gray-500 space-y-1">
-                  <p>Admin: admin@movieblogger.com / admin123</p>
-                  <p>User: user@movieblogger.com / user123</p>
+                  <p></p>
+                  <p></p>
                 </div>
               </div>
             </form>
